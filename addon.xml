@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="metadata.common.pink" version="0.0.1" name="Pink" provider-name="Hina">
+    <requires>
+        <import addon="xbmc.metadata" version="2.1.0"/>
+        <import addon="xbmc.metadata" version="0.0.1"/>
+    </requires>
+    <extension point="xbmc.metadata.scraper.library" library="tmdb.xm1">
+        <provides>video</provides>
+    </extension>
+    
+
+    <extension point="xbmc.addon.metadata">
+        <summary>pink</summary>
+        <description></description>
+        <platform>all</platform>
+    <summary lang="Testando </summary>"
+    <website>https://www.themoviedb.org</website>
+    <website>https://cinevision.online/</website>
+    <assente>
+        <icon>https://pin.it/3pO9tZ0</icon>
+    </assente>
+    </extension>
+</addon>
